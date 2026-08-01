@@ -73,10 +73,12 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenResume, activeSection }) =
             className="flex items-center gap-2.5 group cursor-pointer text-left focus:outline-hidden"
           >
             <div className="w-9 h-9 rounded-xl bg-gradient-to-tr from-blue-600 via-indigo-600 to-violet-600 p-[1.5px] shadow-sm transition-transform duration-300 group-hover:scale-105">
-              <div className="w-full h-full bg-white rounded-[10.5px] flex items-center justify-center font-bold text-xs tracking-wider text-indigo-600">
-                KR
-              </div>
-            </div>
+  <img
+    src="/me.jpg"
+    alt="Kishan R"
+    className="w-full h-full rounded-[10.5px] object-cover"
+  />
+</div>
             <div className="flex flex-col">
               <span className="font-semibold text-sm tracking-tight text-slate-900 group-hover:text-blue-600 transition-colors">
                 {personalInfo.name}
