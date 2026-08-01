@@ -111,7 +111,7 @@ export const About: React.FC = () => {
               </h3>
 
               <p className="text-slate-700 text-base leading-relaxed">
-                I am a <strong>Computer Science Engineering student</strong> currently in <strong>Semester 2</strong> at <strong>Cochin University of Science and Technology (CUSAT)</strong>, Thrikkakara Campus.
+                I am a <strong>Computer Science Engineering student</strong> currently in <strong>Semester 3</strong> at <strong>Cochin University of Science and Technology (CUSAT)</strong>, Thrikkakara Campus.
               </p>
 
               <p className="text-slate-600 text-base leading-relaxed">
