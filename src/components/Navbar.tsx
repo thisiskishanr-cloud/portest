@@ -84,7 +84,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenResume, activeSection }) =
                 {personalInfo.name}
               </span>
               <span className="text-[11px] text-slate-500 font-medium">
-                CUSAT CSE '28
+                CUSAT CSE '29
               </span>
             </div>
           </button>
